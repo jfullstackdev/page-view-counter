@@ -1,6 +1,6 @@
 # Page View Counter
 
-![452715000-717fa07b-20d3-40e5-849b-4c7315b84591-final](https://github.com/user-attachments/assets/ec49fa48-742a-41c5-9895-2bf83862a149)
+![452715000-717fa07b-20d3-40e5-849b-4c7315b84591-final](https://github.com/user-attachments/assets/86cb9c0d-74e7-4d08-8263-9bacc374a332)
 
 A simple page view counter service that generates SVG badges to display view counts on websites.  
 Inspired by [gjbae1212/hit-counter](https://github.com/gjbae1212/hit-counter), but built with the MERN stack
